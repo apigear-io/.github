@@ -19,6 +19,7 @@ These repositories are the core of ApiGear. They are the ones that are used to b
 
 These repositories are the templates used to generate the SDKs. They are used by the ApiGear platform.
 
+* [Template Registry](https://github.com/apigear-io/template-registry)
 * [CPP14 Template](https://github.com/apigear-io/template-cpp14)
 * [Unreal Template](https://github.com/apigear-io/template-unreal)
 * [Qt Template](https://github.com/apigear-io/template-qtcpp)
