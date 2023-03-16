@@ -1,2 +1,9 @@
-# .github
-Base repository for common files in a repos (e.g. license, code-of-conduct, etc...)
+# ApiGear
+
+*ApiGear allows a faster software integration cycle based on a common API description and SDKs templates.*
+
+
+You can read more at https://apigear.io
+
+/ ApiGear Team
+
