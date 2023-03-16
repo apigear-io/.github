@@ -5,5 +5,10 @@
 
 You can read more at https://apigear.io
 
+# Core Repositories
+
+* [apigear-cli](cli)
+* [apigear-studio](studio)
+
 / ApiGear Team
 
