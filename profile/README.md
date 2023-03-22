@@ -36,6 +36,9 @@ These repositories are the core of the Object Link Protocol. They are used by th
 * [ObjectLink Python](https://github.com/apigear-io/objectlink-core-python)
 * [ObjectLink TypeScript](https://github.com/apigear-io/objectlink-core-typescript)
 
+# Diverse Repositories
+
+* [Job Scheduler](https://github.com/apigear-io/scheduler)
 
 / ApiGear Team
 
