@@ -23,7 +23,7 @@ These repositories are the templates used to generate the SDKs. They are used by
 * [CPP14 Template](https://github.com/apigear-io/template-cpp14)
 * [Unreal Template](https://github.com/apigear-io/template-unreal)
 * [Qt Template](https://github.com/apigear-io/template-qtcpp)
-* [Python Template](https://github.com/apigear-io/template-py)
+* [Python Template](https://github.com/apigear-io/template-python)
 * [Go Template](https://github.com/apigear-io/template-go)
 * [TypeScript Template](https://github.com/apigear-io/template-ts)
 
