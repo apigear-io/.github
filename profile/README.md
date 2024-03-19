@@ -12,8 +12,7 @@ These repositories are the core of ApiGear. They are the ones that are used to b
 * [CLI](https://github.com/apigear-io/cli)
 * [Studio](https://github.com/apigear-io/studio)
 * [VSCode Plugin](https://github.com/apigear-io/apigear-vscode)
-* [Landing Page](https://github.com/apigear-io/apigear.io)
-* [Documentation](https://github.com/apigear-io/apigear-docs)
+* [Landing Page and Documentation](https://github.com/apigear-io/apigear-docs)
 
 # ApiGear SDK Templates
 
