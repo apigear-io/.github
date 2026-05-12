@@ -27,6 +27,7 @@ These repositories are the templates used to generate the SDKs. They are used by
 * [Python Template](https://github.com/apigear-io/template-python)
 * [Go Template](https://github.com/apigear-io/template-go)
 * [TypeScript Template](https://github.com/apigear-io/template-ts)
+* [Java Template](https://github.com/apigear-io/template-java)
 
 # Object Link Protocol
 
