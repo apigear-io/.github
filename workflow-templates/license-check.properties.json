@@ -1,0 +1,6 @@
+{
+  "name": "License check",
+  "description": "Verify a LICENSE file exists and is detected as MIT",
+  "iconName": "octicon law",
+  "categories": ["Code Scanning"]
+}
