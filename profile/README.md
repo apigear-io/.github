@@ -28,6 +28,7 @@ These repositories are the templates used to generate the SDKs. They are used by
 * [Go Template](https://github.com/apigear-io/template-go)
 * [TypeScript Template](https://github.com/apigear-io/template-ts)
 * [Java Template](https://github.com/apigear-io/template-java)
+* [Rust Template](https://github.com/apigear-io/template-rust)
 
 # Object Link Protocol
 
@@ -37,6 +38,7 @@ These repositories are the core of the Object Link Protocol. They are used by th
 * [ObjectLink Go](https://github.com/apigear-io/objectlink-core-go)
 * [ObjectLink Python](https://github.com/apigear-io/objectlink-core-python)
 * [ObjectLink TypeScript](https://github.com/apigear-io/objectlink-core-typescript)
+* [ObjectLink Rust](https://github.com/apigear-io/objectlink-core-rs)
 
 # Diverse Repositories
 
